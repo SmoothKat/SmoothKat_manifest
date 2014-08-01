@@ -411,8 +411,10 @@
   <project path="tools/motodev" name="platform/tools/motodev" groups="notdefault,motodev" />
   <project path="tools/studio/cloud" name="platform/tools/studio/cloud" groups="notdefault,tools" />
   <project path="tools/swt" name="platform/tools/swt" groups="notdefault,tools" />
-  <!-- Linaro toolchains -->
-  <project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.8" name="platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.8-linaro" groups="pdk,linux,arm" remote="linaro" revision="refs/heads/master" />
+  <!-- Custom toolchains -->
+  <project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.8-linaro" name="platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.8-linaro" groups="pdk,linux,arm" remote="linaro" revision="refs/heads/master" />
+  <project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.8-sm" name="arm-linux-androideabi-4.8" remote="SmoothKat" 
+revision="master" />
   <!-- Devices Vendor -->
   <project path="vendor/lge" name="platform_vendor_lge" remote="SmoothKat" revision="kitkat" />
   <project path="vendor/samsung" name="platform_vendor_samsung" remote="SmoothKat" revision="kitkat" />
