@@ -249,7 +249,7 @@
   <project path="frameworks/compile/libbcc" name="platform/frameworks/compile/libbcc" groups="pdk" />
   <project path="frameworks/compile/mclinker" name="frameworks_compile_mclinker" groups="pdk" remote="SmoothKat" revision="master" />
   <project path="frameworks/compile/slang" name="frameworks_compile_slang" groups="pdk" remote="SmoothKat" revision="master" />
-  <project path="frameworks/ex" name="android_platform_frameworks_ex" />
+  <project path="frameworks/ex" name="android_platform_frameworks_ex" remote="SmoothKat" revision="master" />
   <project path="frameworks/mff" name="platform/frameworks/mff" />
   <project path="frameworks/ml" name="platform/frameworks/ml" />
   <project path="frameworks/native" name="android_platform_frameworks_native" remote="SmoothKat" groups="pdk" revision="master" />
