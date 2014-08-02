@@ -247,7 +247,7 @@
   <project path="frameworks/av" name="platform/frameworks/av" groups="pdk" />
   <project path="frameworks/base" name="android_platform_frameworks_base" remote="SmoothKat" revision="kitkat-mr2.2-release" />
   <project path="frameworks/compile/libbcc" name="platform/frameworks/compile/libbcc" groups="pdk" />
-  <project path="frameworks/compile/mclinker" name="platform/frameworks/compile/mclinker" groups="pdk" />
+  <project path="frameworks/compile/mclinker" name="frameworks_compile_mclinker" groups="pdk" remote="SmoothKat" revision="master" />
   <project path="frameworks/compile/slang" name="frameworks_compile_slang" groups="pdk" remote="SmoothKat" revision="master" />
   <project path="frameworks/ex" name="platform/frameworks/ex" />
   <project path="frameworks/mff" name="platform/frameworks/mff" />
