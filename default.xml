@@ -245,7 +245,7 @@
   <project path="external/zlib" name="platform/external/zlib" groups="pdk" />
   <project path="external/zxing" name="platform/external/zxing" />
   <project path="frameworks/av" name="platform/frameworks/av" groups="pdk" />
-  <project path="frameworks/base" name="android_platform_frameworks_base" remote="SmoothKat" revision="kitkat-mr2.2-release" />
+  <project path="frameworks/base" name="android_platform_frameworks_base" remote="SmoothKat" revision="master" />
   <project path="frameworks/compile/libbcc" name="platform/frameworks/compile/libbcc" groups="pdk" />
   <project path="frameworks/compile/mclinker" name="frameworks_compile_mclinker" groups="pdk" remote="SmoothKat" revision="master" />
   <project path="frameworks/compile/slang" name="frameworks_compile_slang" groups="pdk" remote="SmoothKat" revision="master" />
