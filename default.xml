@@ -426,4 +426,4 @@ revision="master" />
   <project path="vendor/nxp" name="platform_vendor_nxp" remote="SmoothKat" revision="kitkat" />
   <project path="vendor/broadcom" name="platform_vendor_broadcom" remote="SmoothKat" revision="kitkat" />
   <project path="vendor/csr" name="android_vendor_csr" remote="SmoothKat" revision="master" />
-< /manifest>
+ </manifest>
